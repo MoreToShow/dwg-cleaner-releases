@@ -5,5 +5,14 @@
     <link>https://github.com/MoreToShow/dwg-cleaner-releases</link>
     <description>Updates for More To Show - DWG Cleaner</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0.43</title>
+      <pubDate>Thu, 24 Sep 2026 15:46:49 GMT</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First release through GitHub: More To Show - DWG Cleaner with Microsoft sign-in for More To Show accounts, the new start screen, and automatic updates.</p>]]></description>
+      <enclosure url="https://github.com/MoreToShow/dwg-cleaner-releases/releases/download/v1.0.43/More-To-Show-DWG-Cleaner-1.0.43.dmg" type="application/octet-stream" sparkle:edSignature="KjLVMoYwwUazhMsdvZRMThLD39q4p1Ppj3wGTosixOIId9vyg50vJVgZHiiM39SpEY2MBci3p1w7q37d6CWGCw==" length="42445433" />
+    </item>
   </channel>
 </rss>
